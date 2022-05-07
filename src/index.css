@@ -1,0 +1,27 @@
+html{
+  background-color: teal;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.container-fluid1{
+  background-color: teal;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+}
+
+
+input[type="text"]{
+  background: transparent;
+  color:black;
+}
+
+input[type="text"]:focus{
+  background: transparent;
+  color:black;
+}
+col{
+  width: 500px;
+}

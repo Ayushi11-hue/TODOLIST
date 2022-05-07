@@ -1,0 +1,24 @@
+.col-sm-6 {
+  background-color: #f1f5f8;
+  background-image: radial-gradient(#bfc0c1 7.2%, transparent 0);
+  border-radius: 20px;
+  background-size: 40px 40px;
+}
+
+.list-unstyled{
+  background-image: radial-gradient(#bfc0c1 7.2%, transparent 0);
+  border-radius: 20px;
+  background-size: 40px 40px;
+}
+
+.shadow{
+  background-color: #F5F5DC;
+  border-radius: 20px;
+  background-size: 40px 40px;
+}
+
+.text-center{
+  background-color: #F5F5DC;
+  border-radius: 20px;
+  background-size: 50%;
+}
